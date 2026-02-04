@@ -6,6 +6,8 @@ The goal is to identify **drop-off points in the user funnel**, evaluate **marke
 
 This analysis simulates a real-world EdTech business scenario similar to platforms like Learntricks.
 
+Note: The dataset used in this project is simulated to reflect realistic EdTech user behavior patterns and is created solely for analytical demonstration purposes.
+
 ---
 
 ## 🎯 Objectives
