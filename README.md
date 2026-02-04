@@ -15,19 +15,7 @@ This analysis simulates a real-world EdTech business scenario similar to platfor
 - Generate actionable insights to improve **conversion rate and retention**
 - Build a **dashboard-ready dataset** for business reporting
 
----
-
-## 📂 Project Structure
-```text
-├── data/
-│   └── edtech_user_funnel.csv
-├── notebooks/
-│   └── edtech_funnel_analysis.ipynb
-├── dashboard/
-│   └── edtech_dashboard.pbix
-├── README.md
-
-🧾 Dataset Description
+- 🧾 Dataset Description
 
 The dataset represents anonymized user interaction data on an EdTech platform.
 
@@ -48,6 +36,7 @@ Time spent on platform
 Device type
 
 Dataset is simulated to reflect realistic EdTech user behavior patterns.
+
 
 🔍 Analysis Performed
 
@@ -124,3 +113,19 @@ Understand user behavior through funnel analysis
 Support decision-making with clear visualizations and metrics
 
 Work on real-world EdTech-style analytical problems
+
+
+---
+
+## 📂 Project Structure
+```text
+├── data/
+│   └── edtech_user_funnel.csv
+├── notebooks/
+│   └── edtech_funnel_analysis.ipynb
+├── dashboard/
+│   └── edtech_dashboard.pbix
+├── README.md
+
+
+
