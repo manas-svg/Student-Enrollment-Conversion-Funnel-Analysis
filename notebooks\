@@ -1,1 +1,26 @@
+## Problem Statement
+An EdTech platform is experiencing a significant drop in student enrollments despite attracting a high number of website visitors. The business lacks visibility into where users drop off in the enrollment journey and which user segments contribute most to conversions.
+
+The objective of this analysis is to:
+- Track the student journey from site visit to course enrollment
+- Identify funnel stages with the highest user drop-off
+- Analyze how user segments (device type, awareness source, returning users) impact enrollment conversion
+- Provide data-driven insights to improve overall enrollment rates
+
+
+
+
+## Solution
+To address the problem, a structured funnel analysis was performed using a dataset of 1,000 users. The approach included:
+
+- Conducting exploratory data analysis (EDA) to understand data structure and user distribution
+- Converting categorical funnel indicators into binary values for accurate aggregation
+- Calculating stage-wise conversion and drop-off rates across the enrollment funnel
+- Performing segment-level analysis by device type, awareness source, and returning users
+- Identifying key behavioral patterns contributing to funnel leakage
+- Recommending actionable strategies focused on pricing optimization, user targeting, and experience improvement
+
+
+## Outcome
+The analysis revealed that the pricing-to-enrollment stage represents the largest funnel leakage point. Returning users demonstrated higher enrollment likelihood, while mobile users showed lower conversion rates. These insights enable the business to prioritize pricing page optimization, retarget high-intent users, and improve mobile user experience to increase enrollments.
 
